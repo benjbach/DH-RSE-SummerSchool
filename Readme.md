@@ -21,7 +21,7 @@ Participants will learn how to enter and modify data in R, and how to create vis
 Participants will also get an overview on how to customise your graph (from adding legends to controlling the colours palettes).  
 For more information on how to get ready for the practical see the `Readme.md` file within the `R Studio` folder in this repo.
 
-The day will be concluded by an RSE Story by Lucy Havens. 
+The day will be concluded by an RSE Story by **Lucy Havens**. 
 
 
 ## Schedule
@@ -51,7 +51,7 @@ His research designs and investigates interactive information visualization inte
 Interested in data sciences, data visualization, web tech and NLP. Currently working on enhancing data visualizations through learning analytics.
 - **Dr. Lucia Michielin**. Training Manager for the CDCS. 
 Her main responsibilities involves planning and co-ordinating of a comprehensive digital research methods training programme for academic researchers in the College of Arts, Humanities and Social Science. 
-- ** Lucy Havens**.  PhD student at School of Informatics, University of Edinburgh.
+- **Lucy Havens**.  PhD student at School of Informatics, University of Edinburgh.
 Lucy is researching bias in cultural heritage metadata. 
 In her research she seeks to identify and classify bias present in the language of cultural heritage catalogues. She is also a Training Fellow for the CDCS.
 
