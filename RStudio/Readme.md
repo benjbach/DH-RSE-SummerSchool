@@ -1,8 +1,8 @@
-# Visualisation wit R Studio
+# Visualisation with R Studio
 
 Hello Everyone! This is the Readme File for the Data Visualisation with R tutorial.
 
-## Author
+## Authorship
 L. Michielin 
 
 ## Installation and set up 
