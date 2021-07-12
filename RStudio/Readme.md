@@ -78,8 +78,8 @@ However if you want to know in advance how to set a project in R (we are going t
 Or you can watch this [video](https://www.youtube.com/watch?v=pyJMWlDptYw).
 
 For this class you would need 2 subfolders : 
-- Data 
-- Graphs  
+- data 
+- graphs  
 
 **Please make sure to have done all the required step prior to the start of the Summer School. If you had any issues in installing R and R Studio or set RStudio Cloud or Google Collab, or if you have any question we have a Drop in Session at 15:00 the 23rd of July that you can access from [here]( https://turing-uk.zoom.us/j/94458637842?pwd=UE5CL3lnQ3Y5d05xR3U1T29ldTNOUT09)**
 
