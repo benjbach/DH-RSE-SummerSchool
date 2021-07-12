@@ -59,7 +59,7 @@ In order to do so you will need to follow the following steps:
     - b. create an empty folder called "data" 
     - c. import the csv data file from the data folder downloaded from the current GitHub repo
     - d. make sure the data file is under the "data" folder on Google Colab
-    - e. repeat the b-c-d steps to create a folder called "image" and upload 'snp.png' file from the image folder downloaded from the current repo. Make sure the image is saved under the 'image' folder
+ 
 
 
 ### Get the material ready 
