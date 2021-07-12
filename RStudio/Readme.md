@@ -69,7 +69,7 @@ In this folder you can find the following files and folders
 - `Exercises.R` is the code used to do the exercises.
 - `RVisualisation.pptx` is presentation used during the tutorial.
 
-You can download each file separately or you can download and extract the zipped file named `RstudioTutorialMaterial` and unzip it on an easily accessible directory in your machine.
+You can download each file separately or you can download and extract the zipped file named `RstudioTutorial` and unzip it on an easily accessible directory in your machine.
 NB. if you have a windows managed machine it is a good idea to avoid C since you may luck full priviliges on that folder.
 
 ### How to set a R project  
