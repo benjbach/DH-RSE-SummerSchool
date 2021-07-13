@@ -1,19 +1,17 @@
 # Good Data Visualisation
 
-The third day of the Summer School will focus on how to present your result efficiently. 
-We are going to focus on best practices and pathways to generate more informative, reusable and open visualisations of your datasets.
+The third day of the Summer School will focus on how to present your data efficiently. 
+We focus on best practices and pathways to generate informative, reusable and open visualisations of your datasets.
 
-The day will be kick off with a talk from **Benjamin Bach** titled “Data Visualization: From Exploration to Storytelling to Participation” that will focus on the importance of good data visualisation in research.
+The day will be kick off with a talk from **[Benjamin Bach](https://visualinteractivedata.github.io/bach)** from the [VisHub](https://visualinteractivedata.github.io) Edinburgh, titled “Data Visualization: From Exploration to Storytelling to Participation” that will focus on the importance of good data visualisation in research.
 
-After this talk we are going to explore the [Vistorian](vistorian.net) tool with **Mashael AlKadi**. 
+After this talk we are going to explore the [Vistorian](vistorian.github.io) tool with **Mashael AlKadi**. 
 The Vistorian is an online tool for interactive exploration of dynamic, multivariate, and geographic networks.
 It is an active research project at the Vishub at the University of Edinburgh and Inria, France. 
-The first hour will be a demo session open to all attendees that will focus on exploring the Vistorian interface and features.
+The first hour will be a demo session open to all attendees that will focus on exploring the Vistorian interface and features and how you can prepare your data to use the Vistorian.
 
-After the lunch break we are going to move to the more hands-on part of the day.
-The afternoon will be kicked off by a practical tutorial with [Vistorian](vistorian.net). 
-Attendees will be able to either use the provided demo dataset or to explore thier own data (if you plan to be BYOD please check [this wiki](https://vistorian.github.io/formattingdata.html) on how to format your data to use them within the Vistorian platform.
-For more information on how to get ready for the practical see the `Readme.md` file within the `Vistorian` folder in this repo.
+After the lunch break we move to the more hands-on part of the day. The afternoon will be kicked off by a practical tutorial with [Vistorian](vistorian.net). 
+Attendees will be able to either use the provided demo dataset or to explore thier own data (if you plan to be BYOD please check [this wiki](https://vistorian.github.io/formattingdata.html) on how to prepare your data to use them within the Vistorian platform. If you have experience any issues, please get in touch with the [Vistorian Team](mailto:vistorian@inria.fr). For more information on how to get ready for the practical see the `Readme.md` file within the `Vistorian` folder in this repo.
 
 We are then going to move on to the second practical tutorial that will focus on how to produce good data visualisation with R.
 This 2-hours tutorial will be lead by **Lucia Michielin** and will give you an introductory overview to the basic techniques for producing informative and reproducible visualisation of tabular data.  
